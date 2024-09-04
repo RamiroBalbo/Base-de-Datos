@@ -12,4 +12,4 @@ El TP3 se implementan los Archivos Binarios, pero el enfoque está en los PUNTER
 
 ## Aclaración
 
-Los TPs no son Base de Datos como las conocemos, estos programas no tienen ni de cerca las capacidades de una BD en serio, son programas pensados para el aprendizaje académico de las bases de programación y el lenguaje C++. ¿Por qué digo que es una Base de Datos?, porque cumple con la definición básica de esta, son programas que se encargan de estructurar, almacenar y ordenar un conjunto de datos interrelacionados entre si.
+Los TPs no son Base de Datos como las conocemos, estos programas no tienen ni de cerca las capacidades de una BD en serio, son programas pensados para el aprendizaje académico de las bases de programación y el lenguaje C++. ¿Por qué digo que es una Base de Datos?, porque estos TPs cumplen con la definición básica de esta, son programas que se encargan de estructurar, almacenar y ordenar un conjunto de datos interrelacionados entre si.
